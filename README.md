@@ -54,6 +54,10 @@ pip install simulaix
 
 ## Usage
 
+The first version is still in development, Simulaix is not yet available.
+please wait for our upcoming release.
+
+
 ```python
 import simulaix as sim
 
